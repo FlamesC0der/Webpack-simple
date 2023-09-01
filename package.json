@@ -1,6 +1,6 @@
 {
   "name": "webpack-avroralcc",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
     "webpack-cli": "^4.9.2",
     "webpack-dev-server": "^4.9.1"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
