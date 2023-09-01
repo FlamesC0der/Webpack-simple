@@ -8,8 +8,8 @@
     "build": "cross-env NODE_ENV=production webpack --mode production",
     "start": "webpack-dev-server --mode development --open"
   },
-  "author": "FlameCoder0_0",
-  "license": "ISC",
+  "author": "FlameC0der0_0",
+  "license": "MIT",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "copy-webpack-plugin": "^11.0.0",
